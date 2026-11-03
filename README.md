@@ -1,2 +1,1 @@
-# Soccer Player Profile
-A mini project that spits out user's input on their soccer stats and turns it into a report style profile
+A mini project that is now in the works of something bigger
